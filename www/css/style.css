@@ -1,0 +1,105 @@
+
+.page {
+  display: none;
+  text-align: center;
+    font-family: 'Baloo Thambi';
+    padding: 15px;
+}
+.tall-content {
+    height: 300px;
+    -webkit-transition:  height 4s; /* Safari */
+    transition: height 4s;
+}
+
+
+#page1 {
+  display: block;
+}
+
+.info {
+    margin: 20px auto;
+    font-weight: 100; /* thinner font */
+}
+
+.page.button {
+    display: block;
+    background: #5EC3B7;
+    margin-top: 30px;
+    border-style: none;
+    padding: 15px;
+    color: #FFFFFF;
+    cursor: pointer;
+    border-radius: .3rem; /* curved border */
+}
+
+
+.form-group {
+  margin-top: 80px;
+  margin-bottom: 40px;
+
+.changePage{
+ margin-top: 80px;
+  
+
+
+}
+}
+
+section.page{
+   font-family: sans-serif;
+}
+
+/* Page 1 */
+
+         h{ /* SmokeLess */
+            font-weight: bold;
+            font-size: 51px;
+            color:crimson; 
+            text-align:center
+
+          }
+        p1 { /* Let's stop smoking with SmokeLess everyday! */
+          font-size: 16px;
+          font-weight: bold;
+          color:black; 
+          text-align:center
+        }
+
+        div.container { /*You should allow the alarm from the app to start.*/
+          background-color: crimson;
+          border: 2px solid crimson; border-radius: 1rem;
+          margin-top: 30px;
+          margin-bottom: 22px;
+          padding: 23px;
+          width: 280px;
+          height: 86px;
+
+          font-size: 15px;
+          color:white; 
+          text-align:center
+          }
+
+        
+        body {
+              padding-top: 20px;
+              padding-bottom: 20px;
+              margin: 10px 20px 10px 20px;
+              text-align: center;
+              }
+        img {margin-top:60px}
+
+        #checkBtn{
+          display: none;
+        }
+
+
+
+/* Page 3 */
+div.form-group2{
+  margin-top: 30px;
+}
+
+.btn-danger { margin-top: 30px;
+
+}
+
